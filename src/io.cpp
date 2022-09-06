@@ -75,7 +75,7 @@ void handle_commandline_arguments(const std::vector<std::string>& argument_vecto
 
 void print_help()
 {
-    std::cout << "Jasper's Elder Tongue Translator\n";
+    std::cout << "elder-tongue-translator\n";
     std::cout << '\n';
 
     std::cout << "Usage: elder-tongue-translator [options]\n";
